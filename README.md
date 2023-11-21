@@ -1,4 +1,6 @@
-# The impact of inter- and intra-species spore density on germination of the food spoilage fungus *Aspergillus niger*
+The impact of inter- and intra-species spore density on germination of the food spoilage fungus Aspergillus niger
+
+# The impact of inter- and intra-species spore density on germination of the food spoilage fungus *Aspergillus niger* (https://doi.org/10.1016/j.ijfoodmicro.2023.110495) 
 ## Classification of *Aspergillus* spores in co-culture
 A subset of approximately 1000 random spores of each *Aspergillus* species was selected from the monoculture datasets. The Euclidean distance in a two-dimensional space was calculated between each spore in the co-culture and the monoculture dataset based on "area" and "contrast". Each spore was assigned to the species with the shortest Euclidean distance and scored 100 to 0. To assess spore overlap between *A. niger* and other *Aspergillus* species in co-culture, we defined a range of spore scores < 50 for each species in co-culture. Then the overlap percentage was calculated by dividing the number of spores falling within this range by the total number of spores in the co-culture. Only spores of *A. niger* were selected for swelling and germ tube formation analysis with a score > 90 to ensure a lack of misclassification with the other species. 
 
